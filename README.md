@@ -13,6 +13,7 @@ createElement()
 #### The createElement() Methods
 Усули createElement() гиреҳи элементро эҷод мекунад.
 ![2](./Img/img-2.jpg)
+![3](./Img/img-3.jpg)
 #### HTML DOM Element appendChild()
 Усули appendChild() гиреҳ (элемент)-ро ҳамчун охирин замима мекунад
 фарзанди унсур.
@@ -27,7 +28,7 @@ appendChild() гиреҳро ба охири рӯйхати кӯдакони
 • Гиреҳи матнӣ эҷод кунед
 •Ба параграф гиреҳи матнро илова кунед
 •Ба ҳуҷҷат параграфро илова кунед.
-![5](./Img/img-3.jpg)
+![5](./Img/img%204.jpg)
 
 ### classlist()
 ClassList як қабулкунанда аст. Объекте, ки он бармегардонад, якчанд усул дорад
@@ -46,7 +47,7 @@ class, and if true, it adds it.
 ### SetAtributte
 ӯ усули setAttribute () ба атрибут арзиши нав мегузорад.
 Агар атрибут мавҷуд набошад, он аввал сохта мешавад
-![6](./Img/img%204.jpg)
+![6](./Img/img%205.jpg)
 ![7](./Img/img%201000.jpg)
 
 
